@@ -26,7 +26,7 @@
  <project path="hardware/ti/domx" name="KFire-Android/android_hardware_ti_domx" revision="jellybean" />
 
  <!-- local projects -->
- <project path="device/bn/acclaim" name="CMNookTablet/android_device_bn_acclaim" remote="private" revision="jellybean"/>
- <project path="kernel/bn/acclaim" name="Kuzma30/kernel3NookTablet" remote="private" revision="jellybean"/> 
+<!-- <project path="device/bn/acclaim" name="CMNookTablet/android_device_bn_acclaim" remote="private" revision="jellybean"/>
+ <project path="kernel/bn/acclaim" name="Kuzma30/kernel3NookTablet" remote="private" revision="jellybean"/>  -->
 
 </manifest>
